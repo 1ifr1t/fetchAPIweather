@@ -1,0 +1,28 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	color: #fff;
+}
+
+body {
+	background: #000;
+	justify-content: center;
+	display: flex;
+}
+
+.kyiv {
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	border: #fff solid 1px;
+	gap: 10px;
+	width: 200px;
+	margin-top: 20px;
+}
+
+input {
+	border: 1px solid #fff;
+	background-color: #000;
+}
+
